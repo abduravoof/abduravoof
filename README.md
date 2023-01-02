@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abduravoof
-- 👀 I’m interested in web development
+- 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on Web, API, UI projects
 - 📫 Reach By droping mail abduravoof@gmail.com or whatsapp me @+919895292329
