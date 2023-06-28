@@ -10,7 +10,7 @@ I have always been fascinated by computers, and since I was in elementary school
 * ✉️  You can contact me at [abduravoof@gmail.com](mailto:abduravoof@gmail.com)
 * 🚀  I'm currently working on [Bardot](http://www.bardot.com/)
 * 🧠  I'm learning ReactJS
-* 🤝  I'm open to collaborating on Web Development Projects
+* 🤝  I'm open to collaborating on Web and Mobile Development Projects
 * ⚡  I am a Salesforce Certified B2C Commerce Developer
 
 ### Skills
