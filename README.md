@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdu Ravoof
 ===================================================================================================================================
 
-Fullstack Developer and Designer
+Fullstack Developer, App Developer and Designer
 --------------------------------
 
 I have always been fascinated by computers, and since I was in elementary school I knew I would end up in a career working with them. My first exposure to programming came actually quite late, when I was 17 or 18. I used to creating web pages, VB Projects when I doing my degree. Since then I have learned that it doesn't matter what language or tools you are using; programming is just a realization of the thought process of the programmer. I realize my self as a smart programmer.
